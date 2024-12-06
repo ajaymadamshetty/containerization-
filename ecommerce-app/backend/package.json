@@ -1,0 +1,13 @@
+{
+    "name": "ecommerce-backend",
+    "version": "1.0.0",
+    "dependencies": {
+      "express": "^4.18.2",
+      "dotenv": "^10.0.0",
+      "mongoose": "^6.2.0"
+    },
+    "scripts": {
+      "start": "node app.js"
+    }
+  }
+  
